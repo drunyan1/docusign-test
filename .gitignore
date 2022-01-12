@@ -1,0 +1,39 @@
+# package directories
+node_modules/
+
+# Serverless directories
+.serverless/
+.dynamodb
+
+# files
+.DS_Store
+.env
+.idea
+.vscode
+.iml
+
+# tests
+coverage/
+out/
+
+# Serverless directories
+.build
+.serverless
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test output
+coverage
+
+.history/
+
+.scannerwork/
